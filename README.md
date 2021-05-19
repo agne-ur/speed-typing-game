@@ -1,1 +1,1 @@
-# Speed Typing Game# speed-typing-game
+# Speed Typing Game
